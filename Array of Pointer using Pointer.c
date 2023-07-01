@@ -1,4 +1,4 @@
-/* Array of poniter using pointer */
+/* Array of pointer using pointer */
 #include<stdio.h>
 const int MAX=3;
 int main()
